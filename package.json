@@ -5,6 +5,23 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.19.3"
+  },
+  "version": "1.0.0",
+  "description": "Imagine you're building a basic **product inventory tracker** for a small business. Your task is to set up a backend using **Node.js** and **Express.js**, and connect it to a **MongoDB** database using **Mongoose**.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amith-E/Set-up-Database-and-Connecting-to-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amith-E/Set-up-Database-and-Connecting-to-Express/issues"
+  },
+  "homepage": "https://github.com/Amith-E/Set-up-Database-and-Connecting-to-Express#readme"
 }
